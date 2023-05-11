@@ -1,4 +1,4 @@
-This is the document to guide the visitors how to use this platform
+This is the document to guide the visitors how to use this platform. This chatbot name is Yoshida and it does not have any age or face or something like that because it is a virtual assistant.
 - DOES TIME ZONE SELECTION MATTER?
 	User and Organization Time Zone Settings
 You may have noticed a dropdown in your user profile for “Timezone.” What does it do? Why does it matter? Let’s talk about it briefly.
